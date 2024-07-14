@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c46d5857f132f6648b7a89417cf03d8e, type: 3}
+  m_Name: Level_8
+  m_EditorClassIdentifier: 
+  questionImage: {fileID: 21300000, guid: 943d4c5ba44c999408d99daefe9982fb, type: 3}
+  answerOptions:
+  - "\u0441\u043A\u0435\u043B\u0435\u0442"
+  - "\u0433\u043E\u043B\u0435\u043C"
+  - "\u0440\u0430\u0437\u043E\u0440\u0438\u0442\u0435\u043B\u044C"
+  - "\u0441\u0432\u0438\u043D\u043E\u0437\u043E\u043C\u0431\u0438"
+  correctAnswerIndex: 3
+  correctAnswerImage: {fileID: 21300000, guid: aa883e9d2a0127e4e844b867f613d994, type: 3}
